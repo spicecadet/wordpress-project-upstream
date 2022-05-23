@@ -1,7 +1,7 @@
 {
     "name": "pantheon-upstreams/upstream-config",
     "type": "project",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repositories": [
         {
             "type": "composer",
