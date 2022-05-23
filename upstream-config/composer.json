@@ -1,5 +1,5 @@
 {
-    "name": "spicecadet/upstream-config",
+    "name": "pantheon-upstreams/upstream-config",
     "type": "project",
     "version": "1.0.1",
     "repositories": [
