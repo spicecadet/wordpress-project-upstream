@@ -1,5 +1,5 @@
 {
-    "name": "pantheon-upstreams/upstream-config",
+    "name": "spicecadet/upstream-config",
     "type": "project",
     "version": "1.0.0",
     "repositories": [
@@ -19,7 +19,8 @@
         "wpackagist-plugin/pantheon-advanced-page-cache": ">=0.3.0",
         "wpackagist-plugin/wp-native-php-sessions": ">=0.6.9",
         "wpackagist-theme/twentynineteen": "^1.2",
-        "wp-coding-standards/wpcs": "^1.2.1"
+        "wp-coding-standards/wpcs": "^1.2.1",
+        "wpackagist-plugin/advanced-custom-fields": "^5.12"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "^1.2.1",
