@@ -68,5 +68,6 @@
       "./vendor/bin/phpunit tests/unit/*"
     ],
     "lint": "find web/wp-content -name '*.php' -exec php -l {} \\;"
-  }
+  },
+  "version": "1.0.1"
 }
