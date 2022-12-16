@@ -21,9 +21,6 @@
         "wpackagist-theme/twentynineteen": "^1.2",
         "wp-coding-standards/wpcs": "^1.2.1",
         "wpackagist-plugin/advanced-custom-fields": "^5.12",
-        "wpackagist-plugin/wp-graphql": "*",
-        "wpackagist-plugin/wpforms-lite": "*",
-        "wpackagist-plugin/smartslider": "*",
         "wpackagist-plugin/akismet": "*"
     },
     "require-dev": {
